@@ -9,6 +9,12 @@ var test = "1";
 alert(test);
 ```
 
+> 
+var test = 1;
+alert(test);
+>
+
+
 # test #
 This is a test file.
 
