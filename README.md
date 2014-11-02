@@ -9,10 +9,10 @@ var test = "1";
 alert(test);
 ```
 
-> 
-var test = 1;
-alert(test);
->
+
+   var test = 1;
+   alert(test);
+     test 123;
 
 
 # test #
