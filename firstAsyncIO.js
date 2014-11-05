@@ -1,3 +1,5 @@
+//fs.readFile   [通过回调函数使用结果]
+
 var fs = require('fs');
 var file = process.argv[2];
 
